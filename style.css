@@ -1,0 +1,15 @@
+#welcome-section{
+    height: 100vh;
+    display:block;
+    text-align: center;
+    background:blue;
+}
+#navbar{
+    position: fixed head;  
+    display: block; 
+}
+#projects{
+    height: 100vh;
+    display:block;
+    text-align: center;
+}
